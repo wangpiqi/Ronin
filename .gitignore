@@ -1,3 +1,6 @@
 /Client/Library
 /Client/Logs
 /Client/Temp
+*.csproj
+*.sln
+.vsconfig
